@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=/usr/bin/session-systemd-user
+Name=systemd user desktop session
+X-LightDM-DesktopName=systemd user desktop session

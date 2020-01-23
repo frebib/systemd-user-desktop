@@ -1,0 +1,5 @@
+#!/bin/sh -eux
+
+systemctl --user import-environment
+
+exec systemctl --user start --wait desktop.target
