@@ -1,4 +1,4 @@
 /src/
 /pkg/
 /systemd-user-desktop/
-*.pkg.tar
+*.pkg.tar*
